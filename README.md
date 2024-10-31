@@ -1,1 +1,1 @@
-# Barbearia
+# Landing Page Barbearia
