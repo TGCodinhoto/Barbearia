@@ -328,6 +328,10 @@ i {
   .btn-whatsapp img {
     max-width: 54px;
   }
+  .footer p {
+    text-align: center;
+    padding: 0 14px;
+  }
 }
 /* Mobile [ainda menor] */
 @media screen and (max-width: 480px) {
